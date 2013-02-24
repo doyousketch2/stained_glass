@@ -3,6 +3,8 @@
 Doyousketch2's Stained Glass mod
 ver 1.1
 
+Image: http://oi48.tinypic.com/30crbz6.jpg
+
 ==============================================================================
 
 Dependencies: VanessaE's Unified Dyes, Calinou's More Blocks
@@ -14,7 +16,8 @@ Unzip the mod file you just downloaded.
 it should be something like: Doyousketch2-stained_glass-1.1.zip
 or stained_glass-master.zip, depending on where you downloaded it from
 
-rename the new folder that looks like: Doyousketch2-stained_glass-1.1
+rename the new folder that looks like: 
+Doyousketch2-stained_glass-1.1 -or- stained_glass-master
 to simply read "stained_glass"
 
 then move it into your Minetest mods folder.
