@@ -3,7 +3,7 @@
 Doyousketch2's Stained Glass mod
 ver 1.1
 
-Image: http://oi48.tinypic.com/30crbz6.jpg
+Image: http://oi47.tinypic.com/hst6s3.jpg
 
 ==============================================================================
 
@@ -27,6 +27,8 @@ then move it into your Minetest mods folder.
 
 Recipe for standard colors:
 
+image: http://oi50.tinypic.com/1ibs7c.jpg
+
 	dye
 	super glow glass
 	super glow glass
@@ -34,6 +36,8 @@ Recipe for standard colors:
 
 
 Recipe for pastel colors:
+
+image: http://oi45.tinypic.com/2wbvkti.jpg
 
 	light dye
 	white paint
@@ -43,6 +47,8 @@ Recipe for pastel colors:
 
 
 Recipe for faint colors:
+
+image: http://oi45.tinypic.com/2wbvkti.jpg
 
 	light dye
 	white paint
@@ -62,19 +68,8 @@ Faint blocks give back two empty buckets.
 
 The Palette includes:
 
-	red
-	orange
-	yellow
-	lime
-	green
-	aqua
-	cyan
-	skyblue
-	blue
-	violet
-	magenta
-	redviolet
-
+	red, orange, yellow, lime, green, aqua
+	cyan, skyblue, blue, violet, magenta, redviolet
 
 Full & half-saturation, medium and dark shades have been included
 as well as light, pastel, and faint tints.
@@ -106,7 +101,7 @@ orange    = 12
 
 
 however, minetest sees it in the order 10, 11, 12, 1, 2, 3...
-so red actually comes first.
+so redviolet actually comes first.
 
 and for whatever reason, minetest doesn't take blank spaces _ into consideration.
 so the attributes just act like the next column of digits.
