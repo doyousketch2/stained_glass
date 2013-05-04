@@ -1,6 +1,6 @@
 --[[
 
-Stained Glass 1.1
+Stained Glass 1.2
 
 This mod provides luminescent stained glass blocks for Minetest 0.4.x.
 
@@ -9,7 +9,7 @@ Depends:
 [unifieddyes] by VanessaE
 
 ==============================================================================
-Sun 24 Feb 2013 11:52:27 AM EST    
+Sat 04 May 2013 01:52:35 PM EDT
 
 Copyright (C) 2013, Eli Innis
 Email: doyousketch2 @ yahoo.com
